@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="CourseWork: war explored">
+    <output-path>$PROJECT_DIR$/out/artifacts/CourseWork__war_explored</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF" />
+    </root>
+  </artifact>
+</component>
